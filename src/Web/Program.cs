@@ -21,7 +21,7 @@ using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.eShopWeb.Web.Pages;
 using Microsoft.FeatureManagement;
 using Microsoft.IdentityModel.Tokens;
-
+//Edit on GitHub
 var builder = WebApplication.CreateBuilder(args);
 builder.Logging.AddConsole();
 
